@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="PeriodicTable/PeriodicTable/App.axaml" value="PeriodicTable/PeriodicTable.Browser/PeriodicTable.Browser.csproj" />
+        <entry key="PeriodicTable/PeriodicTable/Views/Element.axaml" value="PeriodicTable/PeriodicTable.Desktop/PeriodicTable.Desktop.csproj" />
+        <entry key="PeriodicTable/PeriodicTable/Views/ElementView.axaml" value="PeriodicTable/PeriodicTable.Desktop/PeriodicTable.Desktop.csproj" />
+        <entry key="PeriodicTable/PeriodicTable/Views/MainView.axaml" value="PeriodicTable/PeriodicTable.Desktop/PeriodicTable.Desktop.csproj" />
+        <entry key="PeriodicTable/PeriodicTable/Views/MainWindow.axaml" value="PeriodicTable/PeriodicTable.Desktop/PeriodicTable.Desktop.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

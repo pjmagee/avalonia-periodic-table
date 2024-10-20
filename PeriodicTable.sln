@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodicTable", "PeriodicTable\PeriodicTable\PeriodicTable.csproj", "{AE0C8F0D-CBF8-4118-8FFE-CC10362A2269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodicTable.Android", "PeriodicTable\PeriodicTable.Android\PeriodicTable.Android.csproj", "{9795FC8E-B977-49B5-A569-A010546350EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodicTable.Desktop", "PeriodicTable\PeriodicTable.Desktop\PeriodicTable.Desktop.csproj", "{87C79A4A-B973-4AAF-9247-C0081C5AE4BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodicTable.iOS", "PeriodicTable\PeriodicTable.iOS\PeriodicTable.iOS.csproj", "{3DC6620B-5798-48D2-B9CD-E96AFF38E8A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodicTable.Browser", "PeriodicTable\PeriodicTable.Browser\PeriodicTable.Browser.csproj", "{7575E147-F70A-42A7-A99B-5193BECB7D8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE0C8F0D-CBF8-4118-8FFE-CC10362A2269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0C8F0D-CBF8-4118-8FFE-CC10362A2269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0C8F0D-CBF8-4118-8FFE-CC10362A2269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0C8F0D-CBF8-4118-8FFE-CC10362A2269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9795FC8E-B977-49B5-A569-A010546350EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9795FC8E-B977-49B5-A569-A010546350EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9795FC8E-B977-49B5-A569-A010546350EC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9795FC8E-B977-49B5-A569-A010546350EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9795FC8E-B977-49B5-A569-A010546350EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9795FC8E-B977-49B5-A569-A010546350EC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{87C79A4A-B973-4AAF-9247-C0081C5AE4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C79A4A-B973-4AAF-9247-C0081C5AE4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C79A4A-B973-4AAF-9247-C0081C5AE4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C79A4A-B973-4AAF-9247-C0081C5AE4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC6620B-5798-48D2-B9CD-E96AFF38E8A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC6620B-5798-48D2-B9CD-E96AFF38E8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC6620B-5798-48D2-B9CD-E96AFF38E8A1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3DC6620B-5798-48D2-B9CD-E96AFF38E8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC6620B-5798-48D2-B9CD-E96AFF38E8A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC6620B-5798-48D2-B9CD-E96AFF38E8A1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7575E147-F70A-42A7-A99B-5193BECB7D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7575E147-F70A-42A7-A99B-5193BECB7D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7575E147-F70A-42A7-A99B-5193BECB7D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7575E147-F70A-42A7-A99B-5193BECB7D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
