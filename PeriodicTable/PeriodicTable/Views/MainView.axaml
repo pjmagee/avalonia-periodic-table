@@ -80,7 +80,6 @@
                                 </StackPanel>
                             </Border>
                         </Panel>
-
                     </DataTemplate>
                 </ItemsControl.ItemTemplate>
             </ItemsControl>
